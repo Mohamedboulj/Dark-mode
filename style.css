@@ -40,15 +40,15 @@ p {
 .switch {
     display: inline-block;
     font-size: 20px; /* 1 */
-    height: 1em;
+    height: 1.09em;  
     width: 2em;
-    background: #3d3d3d;
+    background: #e9e9ea;
     border-radius: 1em;
   }
   
 .switch div {
-    height: 1em;
-    width: 1em;
+    height: 1.1em;
+    width: 1.1em;
     border-radius: 1em;
     background: #FFF;
     box-shadow: 0 0.1em 0.3em rgba(0,0,0,0.3);
@@ -68,3 +68,6 @@ p {
 .darkbody{
       background: #121212;
   }
+.switch_bg{
+  background: #34c759;
+}
